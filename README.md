@@ -19,7 +19,3 @@ This project is maintained by teamWYXZ:
 ## Contributing
 To contribute to this project, simply create a pull request on
 this repository and we’ll review it when we can.
-
-
-
-OLOLOLO
